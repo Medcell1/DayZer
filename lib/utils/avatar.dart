@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
-import 'package:inter_face/pages/fourth_page.dart';
+import 'package:inter_face/pages/third_page.dart';
 import 'package:inter_face/pages/second_page.dart';
-import 'package:inter_face/pages/utils/Fourth_Page.dart';
+import 'package:inter_face/pages/Fourth_Page.dart';
 
 class GBottom extends StatefulWidget {
   const GBottom({Key? key}) : super(key: key);

@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:inter_face/pages/utils/New_Row.dart';
 
-import 'utils/New_Widget.dart';
+import '../utils/New_Row.dart';
+import '../utils/New_Widget.dart';
 
 int percent = 70;
 

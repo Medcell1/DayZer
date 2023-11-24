@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:inter_face/pages/utils/Boxes.dart';
-import 'package:inter_face/utils/Circles.dart';
+
+import '../utils/Boxes.dart';
+import '../utils/Circles.dart';
 
 enum Take {
   t,

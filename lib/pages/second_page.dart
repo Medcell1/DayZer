@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'utils/ReusableCont.dart';
+import '../utils/ReusableCont.dart';
+
 
 class SecondPage extends StatefulWidget {
   const SecondPage({Key? key}) : super(key: key);
